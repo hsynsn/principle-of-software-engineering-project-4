@@ -17,7 +17,7 @@ git commit -m "README file updated with creative decription and school website"
 git pull origin main
 git push origin main
 
-#STEP d
+STEP d
 COMMAND LINES:
 cd principle-of-software-engineering-project-4
 notepad .gitignore
