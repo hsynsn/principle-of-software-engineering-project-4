@@ -1,6 +1,6 @@
 # Principles of Software Engineering Project 4
 
-we are, Hüseyin Şen and Oğuz Bartu Kılıç, the best computer scientists in this world. And we are going to take aa in this lecture.
+We are, Hüseyin Şen and Oğuz Bartu Kılıç, the best computer scientists in this world. And we are going to get an A in this lecture.
 
 this repositor includes project 4 files of principles of software engineeing lecture
 
