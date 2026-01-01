@@ -40,3 +40,8 @@ Thumbs.db
 .project
 .settings/
 .vscode/
+
+step d
+COMMAND LINSE:
+git branch feature-1
+git switch feature-1
