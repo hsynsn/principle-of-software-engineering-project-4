@@ -1,12 +1,15 @@
 STEP a.
+COMMAND LINES:
 git config --global user.name "HuseyinSen"
 git config --global user.email "23COMP1054@isik.edu.tr"
 git config --global core.editor "notepad"
 
 STEP b.
+COMMAND LINES:
 cd Belgelerim/
 cd hw4/
 git clone https://github.com/hsynsn/principle-of-software-engineering-project-4
+QUESTION B: the directory is currently empty.
 
 STEP c.
 COMMAND LINES:
@@ -45,7 +48,7 @@ Thumbs.db
 .vscode/
 
 STEP e.
-COMMAND LINSE:
+COMMAND LINES:
 git branch feature-1
 git switch feature-1
 
@@ -71,7 +74,13 @@ STEP g.
 git switch main
 git merge feature-1
 
+STEP h.
+COMMAND LINES:
+git branch feature-2
 
+STEP i.
+COMMAND LINES:
+git branch feature-3
 
 
 
