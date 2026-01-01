@@ -1,14 +1,15 @@
-STEP a
+STEP a.
 git config --global user.name "HuseyinSen"
 git config --global user.email "23COMP1054@isik.edu.tr"
 git config --global core.editor "notepad"
 
-STEP b
+STEP b.
 cd Belgelerim/
 cd hw4/
 git clone https://github.com/hsynsn/principle-of-software-engineering-project-4
 
-STEP c
+STEP c.
+COMMAND LINES:
 cd principle-of-software-engineering-project-4
 notepad README.md
 //here we update
@@ -17,7 +18,9 @@ git commit -m "README file updated with creative decription and school website"
 git pull origin main
 git push origin main
 
-STEP d
+QUESTION C: \[Department of Software Engineering of Işık University]https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi
+
+STEP d.
 COMMAND LINES:
 cd principle-of-software-engineering-project-4
 notepad .gitignore
@@ -25,7 +28,7 @@ notepad .gitignore
 git add .gitignore
 git commit -m "setting up gitignore"
 
-QUESTION:
+QUESTION d:
 The .gitignore file contains the following rules:
 *.class
 target/
@@ -41,7 +44,11 @@ Thumbs.db
 .settings/
 .vscode/
 
-step d
+step f.
 COMMAND LINSE:
 git branch feature-1
 git switch feature-1
+
+
+
+
