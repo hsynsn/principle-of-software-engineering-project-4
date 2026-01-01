@@ -62,7 +62,18 @@ git commit -m "satisfying requirement one"
 
 QUESTION f:
 Commits:
-git commit -m "satisfying requirement one"
+11f817a (main, feature-3, feature-1) satisfying requirement one
+1b12624 (origin/main, origin/HEAD) Merge branch 'main' of https://github.com/hsynsn/principle-of-software-engineering-project-4
+103ad2c we added the creative things
+44e9aff Update homework4.txt
+3ff8c43 Add steps for Git configuration and cloning repository
+6e1963a Update homework4.txt
+96f6822 Update homework4.txt
+b761b5f Add Git configuration steps to homework4.txt
+07b8ecd Delete hw4k
+f08d5d7 Add hwk4 directory and homework4.txt
+0291ac8 Create hw4k
+911515e Initial commit
 
 feature-1 branch Files:
 JavaProgram.java, README.md, hwk4/
