@@ -44,10 +44,38 @@ Thumbs.db
 .settings/
 .vscode/
 
-step e.
+STEP e.
 COMMAND LINSE:
 git branch feature-1
 git switch feature-1
+
+STEP f.
+COMMAND LINES:
+notepad JavaProgram.java
+//we code here
+git add JavaProgram.java
+git commit -m "satisfying requirement one"
+
+QUESTION f:
+Commits:
+git commit -m "satisfying requirement one"
+
+feature-1 branch Files:
+JavaProgram.java, README.md, hwk4/
+
+main branch Files:
+README.md, hwk4/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
