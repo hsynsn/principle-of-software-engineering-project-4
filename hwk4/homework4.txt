@@ -17,9 +17,26 @@ git commit -m "README file updated with creative decription and school website"
 git pull origin main
 git push origin main
 
-STEP d
+#STEP d
+COMMAND LINES:
 cd principle-of-software-engineering-project-4
 notepad .gitignore
 //type rules in the file
 git add .gitignore
 git commit -m "setting up gitignore"
+
+QUESTION:
+The .gitignore file contains the following rules:
+*.class
+target/
+bin/
+out/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
