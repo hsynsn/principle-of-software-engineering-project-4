@@ -1,8 +1,9 @@
-STEP a
+STEP a (Huseyin Sen)
 git config --global user.name "HuseyinSen"
 git config --global user.email "23COMP1054@isik.edu.tr"
 git config --global core.editor "notepad"
 
+Step a (Oguz Bartu Kilic)
 git config --global user.name "OguzBartuKilic"
 git config --global user.email "22COMP1024@isik.edu.tr"
 git config --global core.editor "notepad"
