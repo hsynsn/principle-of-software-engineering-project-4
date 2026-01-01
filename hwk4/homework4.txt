@@ -3,11 +3,22 @@ git config --global user.name "HuseyinSen"
 git config --global user.email "23COMP1054@isik.edu.tr"
 git config --global core.editor "notepad"
 
-git config --global user.name "OguzBartuKilic"
-git config --global user.email "22COMP1024@isik.edu.tr"
-git config --global core.editor "notepad"
-
 STEP b
 cd Belgelerim/
 cd hw4/
 git clone https://github.com/hsynsn/principle-of-software-engineering-project-4
+
+STEP c
+notepad README.md
+//here we update
+git add README.md
+git commit -m "README file updated with creative decription and school website"
+git pull origin main
+git push origin main
+
+STEP d
+cd principle-of-software-engineering-project-4
+notepad .gitignore
+//type rules in the file
+git add .gitignore
+git commit -m "setting up gitignore"
