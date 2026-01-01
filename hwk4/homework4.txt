@@ -66,8 +66,9 @@ JavaProgram.java, README.md, hwk4/
 main branch Files:
 README.md, hwk4/
 
-
-
+STEP g.
+git switch main
+git merge feature-1
 
 
 
