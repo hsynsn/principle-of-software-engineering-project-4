@@ -1,4 +1,4 @@
 STEP a
 git config --global user.name "HuseyinSen"
 git config --global user.email "23COMP1054@isik.edu.tr"
-git config --global core.editor "code --wait"
+git config --global core.editor "notepad"
