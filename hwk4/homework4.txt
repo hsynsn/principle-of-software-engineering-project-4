@@ -164,5 +164,26 @@ STEP m.
 COMMAND LINES:
 git checkout main
 git merge feature-3
+CONFLICT: Merge conflict in hwk4/JavaProgram.java
+git checkout --theirs hwk4/JavaProgram.java
+git add hwk4/JavaProgram.java
+git commit
+git status
+
+QUESTIONS m:
+$ git diff --stat main..feature-1
+ hwk4/JavaProgram.java | 8 ++------
+ hwk4/homework4.txt    | 5 +----
+ 2 files changed, 3 insertions(+), 10 deletions(-)
+
+$ git diff --stat main..feature-2
+ hwk4/JavaProgram.java | 5 ++++-
+ hwk4/homework4.txt    | 5 +----
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+
+
+$ git diff --stat main..feature-3
+ hwk4/homework4.txt | 5 +----
+ 1 file changed, 1 insertion(+), 4 deletions(-)
 
 
