@@ -147,7 +147,13 @@ f08d5d7 Add hwk4 directory and homework4.txt
 0291ac8 Create hw4k
 911515e Initial commit
 
-
+STEP k.
+COMMAND LINES:
+git switch feature-2
+notepad JavaProgram.java
+//we fixed the code
+git add .
+git commit -m "satisfying requirement change three"
 
 
 
