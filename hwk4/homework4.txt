@@ -1,11 +1,6 @@
-STEP a (Huseyin Sen)
+STEP a
 git config --global user.name "HuseyinSen"
 git config --global user.email "23COMP1054@isik.edu.tr"
-git config --global core.editor "notepad"
-
-Step a (Oguz Bartu Kilic)
-git config --global user.name "OguzBartuKilic"
-git config --global user.email "22COMP1024@isik.edu.tr"
 git config --global core.editor "notepad"
 
 STEP b
@@ -20,3 +15,10 @@ git add README.md
 git commit -m "README file updated with creative decription and school website"
 git pull origin main
 git push origin main
+
+STEP d
+cd principle-of-software-engineering-project-4
+notepad .gitignore
+//type rules in the file
+git add .gitignore
+git commit -m "setting up gitignore"
