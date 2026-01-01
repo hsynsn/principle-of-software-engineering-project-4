@@ -149,7 +149,7 @@ f08d5d7 Add hwk4 directory and homework4.txt
 
 STEP k.
 COMMAND LINES:
-git switch feature-2
+git switch feature-3
 notepad JavaProgram.java
 //we fixed the code
 git add .
