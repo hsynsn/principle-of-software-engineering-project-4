@@ -96,7 +96,7 @@ git branch feature-3
 STEP j.
 COMMAND LINES:
 git switch feature-2
-notepad JavaProgram
+notepad JavaProgram.java
 //we fixed the code
 git add .
 git commit -m "satisfying requirement change two"
