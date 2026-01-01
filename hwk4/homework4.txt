@@ -155,7 +155,10 @@ notepad JavaProgram.java
 git add hwk4/JavaProgram.java
 git commit -m "satisfying requirement change three"
 
-
+STEP l.
+COMMAND LINES:
+git checkout main
+git merge feature-2
 
 
 
