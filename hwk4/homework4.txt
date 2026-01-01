@@ -62,8 +62,20 @@ git commit -m "satisfying requirement one"
 
 QUESTION f:
 Commits:
-11f817a (main, feature-3, feature-1) satisfying requirement one
-1b12624 (origin/main, origin/HEAD) Merge branch 'main' of https://github.com/hsynsn/principle-of-software-engineering-project-4
+78290eb (main, feature-3, feature-1) satisfying requirement one
+91cacf7 Update homework4.txt
+553bc4c Update homework4.txt
+868ee6d Document git branch creation and switching
+a493159 Update homework4.txt
+b1d8a65 Update homework4.txt
+d397fad Update homework4.txt
+a608b4b Merge branch 'main' of https://github.com/hsynsn/principle-of-software-engineering-project-4
+bcae1e7 Update homework4.txt
+9975dc6 setting up gitignore
+53d5d8f Document steps for README update and git commands
+5f1aa45 Update README.md
+8cb6985 Update README.md
+1b12624 Merge branch 'main' of https://github.com/hsynsn/principle-of-software-engineering-project-4
 103ad2c we added the creative things
 44e9aff Update homework4.txt
 3ff8c43 Add steps for Git configuration and cloning repository
@@ -102,10 +114,28 @@ git add .
 git commit -m "satisfying requirement change two"
 git log --oneline
 
-QUESTION j:
-ca4d404 (HEAD -> feature-2) satisfying requirement change two
-11f817a (main, feature-3, feature-1) satisfying requirement one
-1b12624 (origin/main, origin/HEAD) Merge branch 'main' of https://github.com/hsynsn/principle-of-software-engineering-project-4
+QUESTION j: Commits:
+2a8f4e3 (HEAD -> feature-2) satisfying change two
+88f5b3c Merge branch 'main' of https://github.com/hsynsn/principle-of-software-engineering-project-4 into feature-2
+e886aa5 (origin/main, origin/HEAD) Update homework4.txt
+22bd017 Update homework4.txt
+fe24065 Update homework4.txt
+e597d7b Update homework4.txt with git commands
+2bd5907 Update homework4.txt with steps and commands
+78290eb (main, feature-3, feature-1) satisfying requirement one
+91cacf7 Update homework4.txt
+553bc4c Update homework4.txt
+868ee6d Document git branch creation and switching
+a493159 Update homework4.txt
+b1d8a65 Update homework4.txt
+d397fad Update homework4.txt
+a608b4b Merge branch 'main' of https://github.com/hsynsn/principle-of-software-engineering-project-4
+bcae1e7 Update homework4.txt
+9975dc6 setting up gitignore
+53d5d8f Document steps for README update and git commands
+5f1aa45 Update README.md
+8cb6985 Update README.md
+1b12624 Merge branch 'main' of https://github.com/hsynsn/principle-of-software-engineering-project-4
 103ad2c we added the creative things
 44e9aff Update homework4.txt
 3ff8c43 Add steps for Git configuration and cloning repository
@@ -116,6 +146,7 @@ b761b5f Add Git configuration steps to homework4.txt
 f08d5d7 Add hwk4 directory and homework4.txt
 0291ac8 Create hw4k
 911515e Initial commit
+
 
 
 
