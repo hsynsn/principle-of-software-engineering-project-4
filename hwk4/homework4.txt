@@ -51,8 +51,9 @@ git switch feature-1
 
 STEP f.
 COMMAND LINES:
-notepad JavaProgram.java
-//we code here
+cd principle-of-software-engineering-project-4
+notepad JavaProgram.java //create the java file
+//insert the function code
 git add JavaProgram.java
 git commit -m "satisfying requirement one"
 
