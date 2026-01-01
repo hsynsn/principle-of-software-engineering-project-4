@@ -160,6 +160,9 @@ COMMAND LINES:
 git checkout main
 git merge feature-2
 
-
+STEP m.
+COMMAND LINES:
+git checkout main
+git merge feature-3
 
 
