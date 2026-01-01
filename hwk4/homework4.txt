@@ -57,7 +57,7 @@ COMMAND LINES:
 cd principle-of-software-engineering-project-4
 notepad JavaProgram.java //create the java file
 //insert the function code
-git add JavaProgram.java
+git add hwk4/JavaProgram.java
 git commit -m "satisfying requirement one"
 
 QUESTION f:
@@ -110,7 +110,7 @@ COMMAND LINES:
 git switch feature-2
 notepad JavaProgram.java
 //we fixed the code
-git add JavaProgram.java
+git add hwk4/JavaProgram.java
 git commit -m "satisfying requirement change two"
 git log --oneline
 
@@ -152,7 +152,7 @@ COMMAND LINES:
 git switch feature-3
 notepad JavaProgram.java
 //we fixed the code
-git add JavaProgram.java
+git add hwk4/JavaProgram.java
 git commit -m "satisfying requirement change three"
 
 
