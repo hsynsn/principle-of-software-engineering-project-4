@@ -110,7 +110,7 @@ COMMAND LINES:
 git switch feature-2
 notepad JavaProgram.java
 //we fixed the code
-git add .
+git add JavaProgram.java
 git commit -m "satisfying requirement change two"
 git log --oneline
 
@@ -152,7 +152,7 @@ COMMAND LINES:
 git switch feature-3
 notepad JavaProgram.java
 //we fixed the code
-git add .
+git add JavaProgram.java
 git commit -m "satisfying requirement change three"
 
 
