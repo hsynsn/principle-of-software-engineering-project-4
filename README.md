@@ -6,3 +6,5 @@ this repositor includes project 4 files of principles of software engineeing lec
 
 \[Department of Software Engineering of Işık University]https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi
 
+Hüseyin Şen(hsynsn) 23COMP1054
+Oğuz Bartu Kılıç(zakut1) 22COMP1024
